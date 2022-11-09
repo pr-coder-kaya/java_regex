@@ -14,3 +14,12 @@ pattern
   - [a-zA-Z] -> lowercase or uppercase letter
   - [a-d[m-p]] -> a to d or m to p
   - [a-z[^bc]] -> a to z but not b or c
+
+
+- REGEX Quantifiers
+  - X? -> X occurs once or not
+  - X+ -> X occurs more than one time
+  - X* -> X occurs zero or more times
+  - X{n} -> X occurs n times only
+  - X{n,} -> X occurs n or more times
+  - X{n, m} -> X occurs at least n times but less than m times

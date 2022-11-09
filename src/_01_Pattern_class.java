@@ -2,8 +2,8 @@ import java.util.regex.Pattern;
 
 public class _01_Pattern_class {
     public static void main(String[] args) {
-        /*
-        Pattern class is a compiled version of regular expression which is used to define the Regex pattern
+        /**
+         *Pattern class is a compiled version of regular expression which is used to define the Regex pattern
          */
 
         Pattern pattern = Pattern.compile("[a-z0-9]{3,15}");

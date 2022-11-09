@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class _01_Pattern_Exercise_CheckUsername {
+public class _01_Pattern_exercise_CheckUsername {
     public static void main(String[] args) {
         /*
         Ask the user to enter a username.

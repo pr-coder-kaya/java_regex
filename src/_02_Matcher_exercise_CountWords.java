@@ -1,7 +1,7 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class _02_Matcher_Exercise_CountWords {
+public class _02_Matcher_exercise_CountWords {
     public static void main(String[] args) {
         /*
         Assume you are given a sentence as below
